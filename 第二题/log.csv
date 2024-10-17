@@ -1,0 +1,7 @@
+//best_setting含义：第一个是否检测，第二个是否检测，产品是否检测，产品是否拆解
+case: 1	max_score: 2963.0	best_setting: (1, 0, 0, 1)
+case: 2	max_score: 2858.4	best_setting: (1, 0, 0, 1)
+case: 3	max_score: 2763.68	best_setting: (0, 0, 1, 1)
+case: 4	max_score: 2859.2	best_setting: (1, 0, 1, 1)
+case: 5	max_score: 2890.49	best_setting: (0, 1, 0, 1)
+case: 6	max_score: 2893.5	best_setting: (1, 0, 0, 1)
